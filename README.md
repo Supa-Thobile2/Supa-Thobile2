@@ -6,7 +6,7 @@
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently leraning react and react native. 
 
 
 
@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning react and react native<br>🎯 Goals: To be a master developer<br></p>
 
 ###
 
