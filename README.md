@@ -1,38 +1,17 @@
 
+![I am junior software developer based in South Africa](https://unsplash.com/photos/nl-1AVWC1RE)
 
-### Hi there 👋, my name is Thobile Nontenja
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, My name is Thobile
+#### I am junior software developer based in South Africa
 
+Mobile and Web developer that is obsessed with code and anime!!!
+I am a REACT JS, React Native ninja with over 3 years in the development space. I use Javascript, HTML5, CSS3 as my tools of choice.
+I have recently started an internship in web and mobile
 
-Skills: REACT / JS / HTML / CSS
+Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently leraning react and react native. 
-
-
-
-
-
-
+- 🔭 I’m currently working on this page. 
 
 
-<h2 align="left">About me</h2>
 
-###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning react and react native<br>🎯 Goals: To be a master developer<br></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-
-</div>
-
-###
